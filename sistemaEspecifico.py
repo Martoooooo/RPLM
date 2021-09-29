@@ -1,0 +1,2 @@
+n = "natan"
+print(n)
