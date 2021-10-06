@@ -1,2 +1,0 @@
-n = "natan"
-print(n)
